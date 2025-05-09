@@ -18,7 +18,6 @@ Implemented in Python using **NetworkX**, **Matplotlib**, and **interactive widg
 - Based on state transitions (`WHITE → GRAY → YELLOW → BLACK`)
 - Follows a distributed message-passing model
 - Leader-based initiation and round-wise simulation
-- Includes **Step 8 optimization** (removes redundant BLACK nodes)
 
 ### 2. ⚙️ Greedy Heuristic Algorithm
 
